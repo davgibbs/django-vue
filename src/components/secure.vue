@@ -1,6 +1,7 @@
 <template>
     <div id="secure">
         <h1>Secure Area</h1>
+        <h1>{{ msg }}</h1>
         <p>
             This is a secure area man.
         </p>
@@ -11,7 +12,7 @@
 export default {
   name: 'Secure',
   data () {
-    return {}
+    return {msg: 'Welcome to Your Secure App'}
   }
 }
 </script>
