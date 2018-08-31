@@ -1,0 +1,1 @@
+{"status":"done","publicPath":"http://localhost:8080/","chunks":{"app":[{"name":"app.js","publicPath":"http://localhost:8080/app.js","path":"/home/davidg/django_vue/dist/app.js"},{"name":"0.6d783cba6ea01e0ea121.hot-update.js","publicPath":"http://localhost:8080/0.6d783cba6ea01e0ea121.hot-update.js","path":"/home/davidg/django_vue/dist/0.6d783cba6ea01e0ea121.hot-update.js"}]}}
